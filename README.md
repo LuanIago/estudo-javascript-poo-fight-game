@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 [English](README.en.md)
+
 # 🗡️ Estudo de POO em JavaScript – Sistema de Batalha
 
 Projeto prático desenvolvido para aplicar conceitos fundamentais da **Programação Orientada a Objetos (POO)** utilizando **JavaScript**, por meio da simulação de uma batalha entre personagens.
