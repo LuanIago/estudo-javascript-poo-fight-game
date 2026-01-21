@@ -38,9 +38,23 @@ O objetivo principal foi **fixar conceitos de POO**, transformando teoria em pr�
 
 ## 🛠️ Tecnologias utilizadas
 
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>
+      <strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>
+      <strong>CSS3</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>
+      <strong>JavaScript</strong>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
